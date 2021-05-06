@@ -14,8 +14,9 @@ _Collections_
 
 **Multithreading:**
 
-7. [Iterative parallelism](./info/kgeorgiy/ja/kozhuharov/concurrency) - _Introduction to multithreading_
-
+7. [Iterative parallelism](./info/kgeorgiy/ja/kozhuharov/concurrent) - _Introduction to multithreading_
+8. [Parallel mapper](./info/kgeorgiy/ja/kozhuharov/concurrent_2) - _Creating out own "ExecutorService"_
+9. Web Crawler - _Advanced multithreading_
 
 **Web applications:**
 
