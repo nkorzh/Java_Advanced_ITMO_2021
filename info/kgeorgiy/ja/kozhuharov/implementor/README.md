@@ -1,4 +1,4 @@
-## Class Implementor
+## Implementor
 
 **Task**: Develop an ``Implementor`` class which will generate implementations of classes and interfaces.  
 

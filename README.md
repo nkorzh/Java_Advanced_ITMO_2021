@@ -9,8 +9,8 @@ ITMO University Java Advanced course homeworks. Cursive comment describes the ho
 _Collections_
 3. [Student database query](./info/kgeorgiy/ja/kozhuharov/student) - _Streams_
 4. [Class Implementor](./info/kgeorgiy/ja/kozhuharov/implementor) - _Reflection_
-5. [Jar Implementor](./info/kgeorgiy/ja/kozhuharov/implementor) - _Working with JDK from application_
-6. [JavaDoc](./info/kgeorgiy/ja/kozhuharov/implementor) - _JavaDoc documentation_
+5. [Jar Implementor](./info/kgeorgiy/ja/kozhuharov/implementor_2) - _Working with JDK from application_
+6. [JavaDoc](./info/kgeorgiy/ja/kozhuharov/implementor_2) - _JavaDoc documentation_
 
 **Multithreading:**
 
