@@ -15,11 +15,12 @@ _Collections_
 **Multithreading:**
 
 7. [Iterative parallelism](./info/kgeorgiy/ja/kozhuharov/concurrent) - _Introduction to multithreading_
-8. [Parallel mapper](./info/kgeorgiy/ja/kozhuharov/concurrent_2) - _Creating out own "ExecutorService"_
-9. Web Crawler - _Advanced multithreading_
+8. [Parallel mapper](./info/kgeorgiy/ja/kozhuharov/concurrent_2) - _Creating our own "ExecutorService"_
+9. [Web Crawler](./info/kgeorgiy/ja/kozhuharov/crawler) - _Advanced multithreading_
 
 **Web applications:**
 
-**User interface:**
-
-**XML:**
+10. [HelloUDP](./info/kgeorgiy/ja/kozhuharov/hello) - _Blocking IO_
+11. [Bank](./info/kgeorgiy/ja/kozhuharov/bank) - _RMI_
+12. [Nonblocking UDP](./info/kgeorgiy/ja/kozhuharov/hello) - _Non-blocking IO_
+13. [Text Statistics](./info/kgeorgiy/ja/kozhuharov/i18n) - _Region-sensitive text analyzer_
